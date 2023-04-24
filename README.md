@@ -25,6 +25,12 @@ This repository contains the implementation of the various algorithm for super-r
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Prepare Dataset
+
+All the training/testing data are avalibal at [Baidu Disk](https://pan.baidu.com/s/12XqgR3l4m-WBxGOw4W807A?pwd=i1dk) code: i1dk 
+
+If you use this datasets, please cite our paper to acknowledge our efforts.
+
 ### Prerequisites
 
 In order to run this implementation, you need to have the following software and libraries installed:
