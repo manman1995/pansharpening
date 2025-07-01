@@ -1,22 +1,4 @@
-# pan-sharpening    Team-zhouman
-
-|model|paper|
-|-|-|
-|panformer-AAAI| Pan-sharpening with Customized Transformer and Invertible Neural Network|
-|GCPNet-TGRS|When Pansharpening Meets Graph Convolution Network and Knowledge Distillation|
-|band_aware-TCI|PAN-guided band-aware multi-spectral feature enhancement for Pan-sharpening|
-|distill-TGRS|Effective Pan-sharpening by Multi-Scale Invertible Neural Network and Heterogeneous Task Distilling|
-|pan_unfolding-CVPR|Memory-augmented Deep Conditional Unfolding Network for Pan-sharpening|
-|MutInf-CVPR|Mutual Information-driven Pan-sharpening|
-|SFITNET-ECCV|Spatial-Frequency Domain Information Integration for Pan-sharpening|
-|mmnet-IJCV|Memory-augmented Deep Unfolding Network for Guided Image Super-resolution|
-
-
-
-If you have any questions, please contact us (manman@mail.ustc.edu.cn)
-
-
-This repository contains the implementation of the various algorithm for super-resolution of remote sensing images. The algorithm is trained using a deep neural network architecture and is implemented using PyTorch.
+# pan-sharpening  
 
 ## Getting Started
 
